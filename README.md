@@ -6,7 +6,7 @@ During the time I started exploring different things on internet and discovered 
 
 After my entrance exams session had over and I was not succeed to get into any public universtiy and my family asked me that what I would like to do afterward. I said to them that I would like to pursue my higher education in computer science & engineering and they agreed with me. Then I decided to enroll in Daffodil International University for my bachelor's in CSE, and got admitted.
   
-Recently my academic classes have started and to be honest I really love studing here, specially programming language. And Honestly I have found my those two answer that I was looking for and now I am focusing to develop my skills and knowledge in this sector. This github account is a part of my journey which will track the journey from the beggining untill my success in sha Allah! thanks for your time reading this long paragraph.
+Recently my academic classes have started and to be honest I really love studing here, specially programming language. And Honestly I have found my those two answer that I was looking for and now I am focusing to develop my skills and knowledge in this sector. This github account is a part of my journey which will track the journey from the beggining untill my success in sha Allah! Thanks for your time reading this long paragraph.
   
 **Last updated on 16 February, 2024**
 
